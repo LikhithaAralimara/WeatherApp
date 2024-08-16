@@ -135,5 +135,5 @@ The app has been hosted on Expo for testing. To view and test it, please install
 
 ## Contact
 Thank you for checking out the project!
-For any questions or feedback, please reach out to [your-email@example.com](mailtolikhithaaralimara@gmail.com).
+For any questions or feedback, please reach out to [likhithaaralimara@gmail.com](mailtolikhithaaralimara@gmail.com).
 
